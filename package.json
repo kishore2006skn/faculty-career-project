@@ -1,0 +1,23 @@
+{
+  "name": "faculty-career-advancement-portal",
+  "version": "1.0.0",
+  "description": "Faculty Career Advancement & Publication Summary Generator - Full Stack MERN Application",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "client:build": "npm --prefix client run build",
+    "seed": "npm --prefix server run seed",
+    "test": "npm --prefix server test"
+  },
+  "keywords": [
+    "faculty",
+    "publication-summary",
+    "career-advancement",
+    "mern",
+    "scopus",
+    "cas-evaluation"
+  ],
+  "author": "Apex Institute of Technology",
+  "license": "MIT"
+}
